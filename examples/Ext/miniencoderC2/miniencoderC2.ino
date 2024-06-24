@@ -1,7 +1,7 @@
 /**
- * @file lcdshow.ino
+ * @file miniencoderC2.ino
  * @author piaoxuebingfeng
- * @brief M5StickCPlus2 Display Test
+ * @brief M5StickCPlus2 with M5Unit-MiniEncoderC test
  * @version 0.1
  * @date 2024-06-24
  *
